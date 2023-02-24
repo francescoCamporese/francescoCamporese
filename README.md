@@ -15,6 +15,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=francescocamporese&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="francescocamporese" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=francescocamporese&show_icons=true&theme=synthwave&locale=en" alt="francescocamporese" />
+<img src="https://github-readme-stats.vercel.app/api?username=francescocamporese&hide=prs&show_icons=true&theme=synthwave&locale=en" alt="francescocamporese" />
 
 </div>
