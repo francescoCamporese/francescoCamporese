@@ -9,12 +9,12 @@
   
 <h2>My GitHub Trophies</h2>
 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=francescocamporese" alt="francescocamporese" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=francescocamporese&theme=onedark&column=4" alt="francescocamporese" /></a> </p>
 
 <h2>My GitHub Stats</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=francescocamporese&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="francescocamporese" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=francescocamporese&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="francescocamporese" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=francescocamporese&show_icons=true&theme=synthwave&locale=en" alt="francescocamporese" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=francescocamporese&show_icons=true&theme=synthwave&locale=en" alt="francescocamporese" />
 
 </div>
